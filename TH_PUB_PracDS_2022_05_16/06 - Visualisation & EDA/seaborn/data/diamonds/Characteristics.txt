@@ -1,0 +1,22 @@
+Characteristics of variables in diamonds include:
+
+carat - The weight or overall size of a diamond is measured in carats. In fact, all gemstones are measured in this fashion. Carat weight is made up of points…like ounces to a pound. It takes 100 points to equal 1 carat. For example, 25 points = 1/4 carat, 50 points = 1/2 carat, etc. Of course, the higher the carat weight of the diamond, the more you can expect to pay for it. However the price does not increase on an even scale. A 2 carat diamond will not be twice the cost of a 1 carat diamond, despite being twice the size. The larger the diamond, the rarer it becomes and the price increases exponentially.
+
+cut - A diamond cut is a style or design guide used when shaping a diamond for polishing. Cut does not refer to shape (pear, oval), but the symmetry, proportioning, and polish of a diamond. The cut of a diamond greatly affects a diamond’s brilliance; this means if it is cut poorly, it will be less luminous. This variable focuses on a judgment about the quality of the diamond’s cut: Fair; Good; Very Good; Premium; Ideal.
+
+color - Most commercially available diamonds are classified by color, or more appropriately, the lack of color. The most valuable diamonds are those classified as colorless, yet there are stones that have rich colors inluding yellow, red, green and even black that are extremely rare and valuable. Color is graded on a letter scale from D to Z, with D representing a colorless diamond.
+
+
+clarity - The clarity of a diamond is determined by the number, location and type of inclusions it contains. Inclusions can be microscopic cracks, mineral deposits, or external markings. Clarity is rated using a scale which contains a combination of letters and numbers to signify the amount and type of inclusions. This scale ranges from FL to I3, FL being Flawless and the most valuable. The Gemological Institute of America has designated that clarity of diamonds is graded under the following guidelines: FL- Diamond free from internal and external flaws under 10X magnification; IF - Absolutely free from internal faults under 10X magnification; VVS1 - Very, very small inclusions in the stone, very difficult to recognize under 10X magnification; VVS2 - Very, very small inclusions anywhere in the stone, only smallest external defects allowed; VS1 - Only the smallest inclusions are allowable in the field of the table and only small faults elsewhere in the stone; VS2 - Very small internal faults and small external defects; SI1 - Small internal faults, not visible to the naked eye; SI2 - Small, easily seen inclusions under magnification in the table, but still not visible to the naked eye; I1 - Inclusions easily seen under magnification, but difficult to see with the naked eye (Inclusions do not influence brilliance); I2 - Large and numerous inclusions, just barely visible to the naked eye; I3 - Large and numerous inclusions, easily visible to the naked eye, diminishing brilliance.
+
+x - Length of the diamond in millimeters.
+
+y - Width of the diamond in millimeters.
+
+z - This variable is a measure of the height in millimeters measured from the bottom of the diamond to its table (the flat surface on the top of the diamond); also called depth of the diamond.
+
+depth - This variable actually is the depth total percentage of the diamond defined by 2(z) / (x + y).
+
+table - This variable actually is a measure of table width, the width of top of diamond relative to widest point.
+
+price - The retail price of the diamond in U.S. dollars.
