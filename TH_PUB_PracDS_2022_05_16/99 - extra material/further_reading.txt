@@ -1,0 +1,19 @@
+Statistics:
+	- For Data Science: https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/
+
+	- General + free: https://www.openintro.org/book/stat/
+
+	- Search MIT/Stanford statistics lectures on Youtube
+
+	- Statquest on YT
+
+Data Science & ML:
+	- Projects: Kaggle
+
+	- From developer: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
+	- Articles: Toward Data Science
+
+	- Textbooks: O'Reilly, e.g. Doing Data Science
+
+	- University Lectures: Stanford Machine Learning w/ Andrew Ng
